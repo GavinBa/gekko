@@ -2,10 +2,7 @@
 	"currencies": ["BTC", "ETH", "XMR", "USDT", "USDC"],
 	"assets": [
     "AAVE", "AKRO", "AMP", "ARDR", "ATOM", "AVA", 
-    "BALLS", "BANK", "BBL", "BBR", "BCC", "BCH", "BCN",
-    "BCY", "BDC", "BDG", "BELA", "BITCNY", "BITS", "BITUSD", "BLK", "BLOCK",
-    "BLU", "BNS", "BONES", "BOST", "BTC", "BTCD", "BTCS", "BTM", "BTS",
-    "BURN", "BURST", 
+    "BAT", "BCH", "BCHA", "BCHSV", "BID", "BNT", "BTS",
     "C2", "CACH", "CAI", "CC", "CCN", "CGA", "CHA", "CINNI",
     "CLAM", "CNL", "CNMT", "CNOTE", "COMM", "CON", "CORG", "CRYPT", "CURE",
     "CVC", "CYC", "DAO", "DASH", "DCR", "DGB", "DICE", "DIEM", "DIME", "DIS", "DNS",
@@ -97,57 +94,7 @@
 	  {
 	    "pair": [
 	      "BTC",
-	      "BALLS"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "BANK"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "BBL"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "BBR"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "BCC"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "BCN"
+	      "BAT"
 	    ],
 	    "minimalOrder": {
 	      "amount": 0.0001,
@@ -167,7 +114,7 @@
 	  {
 	    "pair": [
 	      "BTC",
-	      "BCY"
+	      "BCHA"
 	    ],
 	    "minimalOrder": {
 	      "amount": 0.0001,
@@ -177,7 +124,7 @@
 	  {
 	    "pair": [
 	      "BTC",
-	      "BDC"
+	      "BCHSV"
 	    ],
 	    "minimalOrder": {
 	      "amount": 0.0001,
@@ -187,7 +134,7 @@
 	  {
 	    "pair": [
 	      "BTC",
-	      "BDG"
+	      "BID"
 	    ],
 	    "minimalOrder": {
 	      "amount": 0.0001,
@@ -197,127 +144,7 @@
 	  {
 	    "pair": [
 	      "BTC",
-	      "BELA"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "BITCNY"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "BITS"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "BITUSD"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "BLK"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "BLOCK"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "BLU"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "BNS"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "BONES"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "BOST"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "BTCD"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "BTCS"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "BTM"
+	      "BNT"
 	    ],
 	    "minimalOrder": {
 	      "amount": 0.0001,
@@ -328,26 +155,6 @@
 	    "pair": [
 	      "BTC",
 	      "BTS"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "BURN"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "BURST"
 	    ],
 	    "minimalOrder": {
 	      "amount": 0.0001,
