@@ -1,11 +1,12 @@
 {
 	"currencies": ["BTC", "ETH", "XMR", "USDT", "USDC"],
 	"assets": [
-    "1CR", "ABY", "AC", "ACH", "ADN", "AEON", "AERO", "AIR", "AMP", "APH",
-    "ARCH", "AUR", "AXIS", "BALLS", "BANK", "BBL", "BBR", "BCC", "BCH", "BCN",
+    "AAVE", "AKRO", "AMP", "ARDR", "ATOM", "AVA", 
+    "BALLS", "BANK", "BBL", "BBR", "BCC", "BCH", "BCN",
     "BCY", "BDC", "BDG", "BELA", "BITCNY", "BITS", "BITUSD", "BLK", "BLOCK",
     "BLU", "BNS", "BONES", "BOST", "BTC", "BTCD", "BTCS", "BTM", "BTS",
-    "BURN", "BURST", "C2", "CACH", "CAI", "CC", "CCN", "CGA", "CHA", "CINNI",
+    "BURN", "BURST", 
+    "C2", "CACH", "CAI", "CC", "CCN", "CGA", "CHA", "CINNI",
     "CLAM", "CNL", "CNMT", "CNOTE", "COMM", "CON", "CORG", "CRYPT", "CURE",
     "CVC", "CYC", "DAO", "DASH", "DCR", "DGB", "DICE", "DIEM", "DIME", "DIS", "DNS",
     "DOGE", "DRKC", "DRM", "DSH", "DVK", "EAC", "EBT", "ECC", "EFL", "EMC2",
@@ -36,7 +37,7 @@
 	  {
 	    "pair": [
 	      "BTC",
-	      "1CR"
+	      "AAVE"
 	    ],
 	    "minimalOrder": {
 	      "amount": 0.0001,
@@ -46,67 +47,7 @@
 	  {
 	    "pair": [
 	      "BTC",
-	      "ABY"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "AC"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "ACH"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "ADN"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "AEON"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "AERO"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "AIR"
+	      "AKRO"
 	    ],
 	    "minimalOrder": {
 	      "amount": 0.0001,
@@ -126,7 +67,7 @@
 	  {
 	    "pair": [
 	      "BTC",
-	      "APH"
+	      "ARDR"
 	    ],
 	    "minimalOrder": {
 	      "amount": 0.0001,
@@ -136,7 +77,7 @@
 	  {
 	    "pair": [
 	      "BTC",
-	      "ARCH"
+	      "ATOM"
 	    ],
 	    "minimalOrder": {
 	      "amount": 0.0001,
@@ -146,17 +87,7 @@
 	  {
 	    "pair": [
 	      "BTC",
-	      "AUR"
-	    ],
-	    "minimalOrder": {
-	      "amount": 0.0001,
-	      "unit": "asset"
-	    }
-	  },
-	  {
-	    "pair": [
-	      "BTC",
-	      "AXIS"
+	      "AVA"
 	    ],
 	    "minimalOrder": {
 	      "amount": 0.0001,
