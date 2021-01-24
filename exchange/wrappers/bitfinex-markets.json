@@ -76,7 +76,6 @@
     "PAI",
     "SEE",
     "ESS",
-    "ATM",
     "HOT",
     "DTA",
     "IQX",
@@ -2477,36 +2476,6 @@
       ],
       "minimalOrder": {
         "amount": "3054.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "ATM"
-      ],
-      "minimalOrder": {
-        "amount": "1842.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "ATM"
-      ],
-      "minimalOrder": {
-        "amount": "1842.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "ATM"
-      ],
-      "minimalOrder": {
-        "amount": "1842.0",
         "unit": "asset"
       }
     },
