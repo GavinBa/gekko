@@ -11,8 +11,10 @@
     "BTG",
     "DAI",
     "DAT",
-
-
+	"DOG",
+	"DOT",
+    "DSH",
+    "DUSK",				//Verify - Failed import
 
 
     "LTC",
@@ -21,7 +23,6 @@
     "RRT",
     "ZEC",
     "XMR",
-    "DSH",
     "XRP",
     "IOT",
     "EOS",
@@ -223,6 +224,47 @@
         "unit": "asset"
       }
     },
+    {
+      "pair": [
+        "BTC",
+        "DOG"
+      ],
+      "minimalOrder": {
+        "amount": "2.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "DOT"
+      ],
+      "minimalOrder": {
+        "amount": "2.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "DSH"
+      ],
+      "minimalOrder": {
+        "amount": "0.08",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "DUSK"
+      ],
+      "minimalOrder": {
+        "amount": "2.0",
+        "unit": "asset"
+      }
+    },
+
 
 
 
