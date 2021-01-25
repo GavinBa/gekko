@@ -4,7 +4,17 @@
    	"ALG",
    	"AMP",
     "ANT",
+    "ATO",
+    "BAT",
+    "BSV",
     "BTC",
+    "BTG",
+    "DAI",
+    "DAT",
+
+
+
+
     "LTC",
     "ETH",
     "ETC",
@@ -22,13 +32,10 @@
     "QTM",
     "AVT",
     "EDO",
-    "BTG",
-    "DAT",
     "QSH",
     "YYW",
     "GNT",
     "SNT",
-    "BAT",
     "MNA",
     "FUN",
     "ZRX",
@@ -47,7 +54,6 @@
     "RDN",
     "LRC",
     "WAX",
-    "DAI",
     "CFI",
     "AGI",
     "BFT",
@@ -109,7 +115,6 @@
     "DRN",
     "PNK",
     "DGB",
-    "BSV",
     "BAB"
   ],
   "currencies": [
@@ -160,471 +165,31 @@
     },
     {
       "pair": [
-        "USD",
-        "BTC"
+        "BTC",
+        "ATO"
       ],
       "minimalOrder": {
-        "amount": "0.002",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "LTC"
-      ],
-      "minimalOrder": {
-        "amount": "0.2",
+        "amount": "22.0",
         "unit": "asset"
       }
     },
     {
       "pair": [
         "BTC",
-        "LTC"
+        "BAT"
       ],
       "minimalOrder": {
-        "amount": "0.2",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "ETH"
-      ],
-      "minimalOrder": {
-        "amount": "0.06",
+        "amount": "70.0",
         "unit": "asset"
       }
     },
     {
       "pair": [
         "BTC",
-        "ETH"
-      ],
-      "minimalOrder": {
-        "amount": "0.06",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "ETC"
-      ],
-      "minimalOrder": {
-        "amount": "2.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "ETC"
-      ],
-      "minimalOrder": {
-        "amount": "2.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "RRT"
-      ],
-      "minimalOrder": {
-        "amount": "294.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "RRT"
-      ],
-      "minimalOrder": {
-        "amount": "294.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "ZEC"
+        "BSV"
       ],
       "minimalOrder": {
         "amount": "0.1",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "ZEC"
-      ],
-      "minimalOrder": {
-        "amount": "0.1",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "XMR"
-      ],
-      "minimalOrder": {
-        "amount": "0.2",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "XMR"
-      ],
-      "minimalOrder": {
-        "amount": "0.2",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "DSH"
-      ],
-      "minimalOrder": {
-        "amount": "0.08",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "DSH"
-      ],
-      "minimalOrder": {
-        "amount": "0.08",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "EUR",
-        "BTC"
-      ],
-      "minimalOrder": {
-        "amount": "0.002",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "JPY",
-        "BTC"
-      ],
-      "minimalOrder": {
-        "amount": "0.002",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "XRP"
-      ],
-      "minimalOrder": {
-        "amount": "38.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "XRP"
-      ],
-      "minimalOrder": {
-        "amount": "38.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "IOT"
-      ],
-      "minimalOrder": {
-        "amount": "24.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "IOT"
-      ],
-      "minimalOrder": {
-        "amount": "24.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "IOT"
-      ],
-      "minimalOrder": {
-        "amount": "24.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "EOS"
-      ],
-      "minimalOrder": {
-        "amount": "2.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "EOS"
-      ],
-      "minimalOrder": {
-        "amount": "2.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "EOS"
-      ],
-      "minimalOrder": {
-        "amount": "2.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "SAN"
-      ],
-      "minimalOrder": {
-        "amount": "24.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "SAN"
-      ],
-      "minimalOrder": {
-        "amount": "24.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "SAN"
-      ],
-      "minimalOrder": {
-        "amount": "24.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "OMG"
-      ],
-      "minimalOrder": {
-        "amount": "4.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "OMG"
-      ],
-      "minimalOrder": {
-        "amount": "4.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "OMG"
-      ],
-      "minimalOrder": {
-        "amount": "4.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "NEO"
-      ],
-      "minimalOrder": {
-        "amount": "0.8",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "NEO"
-      ],
-      "minimalOrder": {
-        "amount": "0.8",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "NEO"
-      ],
-      "minimalOrder": {
-        "amount": "0.8",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "ETP"
-      ],
-      "minimalOrder": {
-        "amount": "8.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "ETP"
-      ],
-      "minimalOrder": {
-        "amount": "8.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "ETP"
-      ],
-      "minimalOrder": {
-        "amount": "8.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "QTM"
-      ],
-      "minimalOrder": {
-        "amount": "4.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "QTM"
-      ],
-      "minimalOrder": {
-        "amount": "4.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "QTM"
-      ],
-      "minimalOrder": {
-        "amount": "4.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "AVT"
-      ],
-      "minimalOrder": {
-        "amount": "36.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "AVT"
-      ],
-      "minimalOrder": {
-        "amount": "36.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "AVT"
-      ],
-      "minimalOrder": {
-        "amount": "36.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "EDO"
-      ],
-      "minimalOrder": {
-        "amount": "16.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "EDO"
-      ],
-      "minimalOrder": {
-        "amount": "16.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "EDO"
-      ],
-      "minimalOrder": {
-        "amount": "16.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "BTG"
-      ],
-      "minimalOrder": {
-        "amount": "0.6",
         "unit": "asset"
       }
     },
@@ -640,857 +205,7 @@
     },
     {
       "pair": [
-        "USD",
-        "DAT"
-      ],
-      "minimalOrder": {
-        "amount": "352.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
         "BTC",
-        "DAT"
-      ],
-      "minimalOrder": {
-        "amount": "352.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "DAT"
-      ],
-      "minimalOrder": {
-        "amount": "352.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "QSH"
-      ],
-      "minimalOrder": {
-        "amount": "68.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "QSH"
-      ],
-      "minimalOrder": {
-        "amount": "68.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "QSH"
-      ],
-      "minimalOrder": {
-        "amount": "68.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "YYW"
-      ],
-      "minimalOrder": {
-        "amount": "510.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "YYW"
-      ],
-      "minimalOrder": {
-        "amount": "510.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "YYW"
-      ],
-      "minimalOrder": {
-        "amount": "510.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "GNT"
-      ],
-      "minimalOrder": {
-        "amount": "82.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "GNT"
-      ],
-      "minimalOrder": {
-        "amount": "82.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "GNT"
-      ],
-      "minimalOrder": {
-        "amount": "82.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "SNT"
-      ],
-      "minimalOrder": {
-        "amount": "334.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "SNT"
-      ],
-      "minimalOrder": {
-        "amount": "334.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "SNT"
-      ],
-      "minimalOrder": {
-        "amount": "334.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "EUR",
-        "IOT"
-      ],
-      "minimalOrder": {
-        "amount": "24.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "BAT"
-      ],
-      "minimalOrder": {
-        "amount": "70.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "BAT"
-      ],
-      "minimalOrder": {
-        "amount": "70.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "BAT"
-      ],
-      "minimalOrder": {
-        "amount": "70.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "MNA"
-      ],
-      "minimalOrder": {
-        "amount": "164.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "MNA"
-      ],
-      "minimalOrder": {
-        "amount": "164.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "MNA"
-      ],
-      "minimalOrder": {
-        "amount": "164.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "FUN"
-      ],
-      "minimalOrder": {
-        "amount": "1196.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "FUN"
-      ],
-      "minimalOrder": {
-        "amount": "1196.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "FUN"
-      ],
-      "minimalOrder": {
-        "amount": "1196.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "ZRX"
-      ],
-      "minimalOrder": {
-        "amount": "20.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "ZRX"
-      ],
-      "minimalOrder": {
-        "amount": "20.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "ZRX"
-      ],
-      "minimalOrder": {
-        "amount": "20.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "TNB"
-      ],
-      "minimalOrder": {
-        "amount": "1418.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "TNB"
-      ],
-      "minimalOrder": {
-        "amount": "1418.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "TNB"
-      ],
-      "minimalOrder": {
-        "amount": "1418.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "SPK"
-      ],
-      "minimalOrder": {
-        "amount": "320.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "SPK"
-      ],
-      "minimalOrder": {
-        "amount": "320.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "SPK"
-      ],
-      "minimalOrder": {
-        "amount": "320.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "TRX"
-      ],
-      "minimalOrder": {
-        "amount": "548.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "TRX"
-      ],
-      "minimalOrder": {
-        "amount": "548.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "TRX"
-      ],
-      "minimalOrder": {
-        "amount": "548.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "RCN"
-      ],
-      "minimalOrder": {
-        "amount": "518.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "RCN"
-      ],
-      "minimalOrder": {
-        "amount": "518.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "RCN"
-      ],
-      "minimalOrder": {
-        "amount": "518.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "RLC"
-      ],
-      "minimalOrder": {
-        "amount": "32.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "RLC"
-      ],
-      "minimalOrder": {
-        "amount": "32.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "RLC"
-      ],
-      "minimalOrder": {
-        "amount": "32.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "AID"
-      ],
-      "minimalOrder": {
-        "amount": "236.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "AID"
-      ],
-      "minimalOrder": {
-        "amount": "236.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "AID"
-      ],
-      "minimalOrder": {
-        "amount": "236.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "SNG"
-      ],
-      "minimalOrder": {
-        "amount": "562.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "SNG"
-      ],
-      "minimalOrder": {
-        "amount": "562.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "SNG"
-      ],
-      "minimalOrder": {
-        "amount": "562.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "REP"
-      ],
-      "minimalOrder": {
-        "amount": "1.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "REP"
-      ],
-      "minimalOrder": {
-        "amount": "1.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "REP"
-      ],
-      "minimalOrder": {
-        "amount": "1.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "ELF"
-      ],
-      "minimalOrder": {
-        "amount": "46.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "ELF"
-      ],
-      "minimalOrder": {
-        "amount": "46.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "ELF"
-      ],
-      "minimalOrder": {
-        "amount": "46.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "GBP",
-        "BTC"
-      ],
-      "minimalOrder": {
-        "amount": "0.002",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "EUR",
-        "ETH"
-      ],
-      "minimalOrder": {
-        "amount": "0.06",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "JPY",
-        "ETH"
-      ],
-      "minimalOrder": {
-        "amount": "0.06",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "GBP",
-        "ETH"
-      ],
-      "minimalOrder": {
-        "amount": "0.06",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "EUR",
-        "NEO"
-      ],
-      "minimalOrder": {
-        "amount": "0.8",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "JPY",
-        "NEO"
-      ],
-      "minimalOrder": {
-        "amount": "0.8",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "GBP",
-        "NEO"
-      ],
-      "minimalOrder": {
-        "amount": "0.8",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "EUR",
-        "EOS"
-      ],
-      "minimalOrder": {
-        "amount": "2.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "JPY",
-        "EOS"
-      ],
-      "minimalOrder": {
-        "amount": "2.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "GBP",
-        "EOS"
-      ],
-      "minimalOrder": {
-        "amount": "2.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "JPY",
-        "IOT"
-      ],
-      "minimalOrder": {
-        "amount": "24.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "GBP",
-        "IOT"
-      ],
-      "minimalOrder": {
-        "amount": "24.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "IOS"
-      ],
-      "minimalOrder": {
-        "amount": "1170.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "IOS"
-      ],
-      "minimalOrder": {
-        "amount": "1170.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "IOS"
-      ],
-      "minimalOrder": {
-        "amount": "1170.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "AIO"
-      ],
-      "minimalOrder": {
-        "amount": "34.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "AIO"
-      ],
-      "minimalOrder": {
-        "amount": "34.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "AIO"
-      ],
-      "minimalOrder": {
-        "amount": "34.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "REQ"
-      ],
-      "minimalOrder": {
-        "amount": "302.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "REQ"
-      ],
-      "minimalOrder": {
-        "amount": "302.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "REQ"
-      ],
-      "minimalOrder": {
-        "amount": "302.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "RDN"
-      ],
-      "minimalOrder": {
-        "amount": "32.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "RDN"
-      ],
-      "minimalOrder": {
-        "amount": "32.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "RDN"
-      ],
-      "minimalOrder": {
-        "amount": "32.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "LRC"
-      ],
-      "minimalOrder": {
-        "amount": "144.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "LRC"
-      ],
-      "minimalOrder": {
-        "amount": "144.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "LRC"
-      ],
-      "minimalOrder": {
-        "amount": "144.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "WAX"
-      ],
-      "minimalOrder": {
-        "amount": "166.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "WAX"
-      ],
-      "minimalOrder": {
-        "amount": "166.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "WAX"
-      ],
-      "minimalOrder": {
-        "amount": "166.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
         "DAI"
       ],
       "minimalOrder": {
@@ -1501,6 +216,1328 @@
     {
       "pair": [
         "BTC",
+        "DAT"
+      ],
+      "minimalOrder": {
+        "amount": "352.0",
+        "unit": "asset"
+      }
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "pair": [
+        "USD",
+        "BTC"
+      ],
+      "minimalOrder": {
+        "amount": "0.002",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "LTC"
+      ],
+      "minimalOrder": {
+        "amount": "0.2",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "LTC"
+      ],
+      "minimalOrder": {
+        "amount": "0.2",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "ETH"
+      ],
+      "minimalOrder": {
+        "amount": "0.06",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "ETH"
+      ],
+      "minimalOrder": {
+        "amount": "0.06",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "ETC"
+      ],
+      "minimalOrder": {
+        "amount": "2.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "ETC"
+      ],
+      "minimalOrder": {
+        "amount": "2.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "RRT"
+      ],
+      "minimalOrder": {
+        "amount": "294.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "RRT"
+      ],
+      "minimalOrder": {
+        "amount": "294.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "ZEC"
+      ],
+      "minimalOrder": {
+        "amount": "0.1",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "ZEC"
+      ],
+      "minimalOrder": {
+        "amount": "0.1",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "XMR"
+      ],
+      "minimalOrder": {
+        "amount": "0.2",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "XMR"
+      ],
+      "minimalOrder": {
+        "amount": "0.2",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "DSH"
+      ],
+      "minimalOrder": {
+        "amount": "0.08",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "DSH"
+      ],
+      "minimalOrder": {
+        "amount": "0.08",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "EUR",
+        "BTC"
+      ],
+      "minimalOrder": {
+        "amount": "0.002",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "JPY",
+        "BTC"
+      ],
+      "minimalOrder": {
+        "amount": "0.002",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "XRP"
+      ],
+      "minimalOrder": {
+        "amount": "38.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "XRP"
+      ],
+      "minimalOrder": {
+        "amount": "38.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "IOT"
+      ],
+      "minimalOrder": {
+        "amount": "24.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "IOT"
+      ],
+      "minimalOrder": {
+        "amount": "24.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "IOT"
+      ],
+      "minimalOrder": {
+        "amount": "24.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "EOS"
+      ],
+      "minimalOrder": {
+        "amount": "2.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "EOS"
+      ],
+      "minimalOrder": {
+        "amount": "2.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "EOS"
+      ],
+      "minimalOrder": {
+        "amount": "2.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "SAN"
+      ],
+      "minimalOrder": {
+        "amount": "24.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "SAN"
+      ],
+      "minimalOrder": {
+        "amount": "24.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "SAN"
+      ],
+      "minimalOrder": {
+        "amount": "24.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "OMG"
+      ],
+      "minimalOrder": {
+        "amount": "4.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "OMG"
+      ],
+      "minimalOrder": {
+        "amount": "4.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "OMG"
+      ],
+      "minimalOrder": {
+        "amount": "4.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "NEO"
+      ],
+      "minimalOrder": {
+        "amount": "0.8",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "NEO"
+      ],
+      "minimalOrder": {
+        "amount": "0.8",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "NEO"
+      ],
+      "minimalOrder": {
+        "amount": "0.8",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "ETP"
+      ],
+      "minimalOrder": {
+        "amount": "8.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "ETP"
+      ],
+      "minimalOrder": {
+        "amount": "8.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "ETP"
+      ],
+      "minimalOrder": {
+        "amount": "8.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "QTM"
+      ],
+      "minimalOrder": {
+        "amount": "4.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "QTM"
+      ],
+      "minimalOrder": {
+        "amount": "4.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "QTM"
+      ],
+      "minimalOrder": {
+        "amount": "4.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "AVT"
+      ],
+      "minimalOrder": {
+        "amount": "36.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "AVT"
+      ],
+      "minimalOrder": {
+        "amount": "36.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "AVT"
+      ],
+      "minimalOrder": {
+        "amount": "36.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "EDO"
+      ],
+      "minimalOrder": {
+        "amount": "16.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "EDO"
+      ],
+      "minimalOrder": {
+        "amount": "16.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "EDO"
+      ],
+      "minimalOrder": {
+        "amount": "16.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "BTG"
+      ],
+      "minimalOrder": {
+        "amount": "0.6",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "DAT"
+      ],
+      "minimalOrder": {
+        "amount": "352.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "DAT"
+      ],
+      "minimalOrder": {
+        "amount": "352.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "QSH"
+      ],
+      "minimalOrder": {
+        "amount": "68.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "QSH"
+      ],
+      "minimalOrder": {
+        "amount": "68.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "QSH"
+      ],
+      "minimalOrder": {
+        "amount": "68.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "YYW"
+      ],
+      "minimalOrder": {
+        "amount": "510.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "YYW"
+      ],
+      "minimalOrder": {
+        "amount": "510.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "YYW"
+      ],
+      "minimalOrder": {
+        "amount": "510.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "GNT"
+      ],
+      "minimalOrder": {
+        "amount": "82.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "GNT"
+      ],
+      "minimalOrder": {
+        "amount": "82.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "GNT"
+      ],
+      "minimalOrder": {
+        "amount": "82.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "SNT"
+      ],
+      "minimalOrder": {
+        "amount": "334.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "SNT"
+      ],
+      "minimalOrder": {
+        "amount": "334.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "SNT"
+      ],
+      "minimalOrder": {
+        "amount": "334.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "EUR",
+        "IOT"
+      ],
+      "minimalOrder": {
+        "amount": "24.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "BAT"
+      ],
+      "minimalOrder": {
+        "amount": "70.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "BAT"
+      ],
+      "minimalOrder": {
+        "amount": "70.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "MNA"
+      ],
+      "minimalOrder": {
+        "amount": "164.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "MNA"
+      ],
+      "minimalOrder": {
+        "amount": "164.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "MNA"
+      ],
+      "minimalOrder": {
+        "amount": "164.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "FUN"
+      ],
+      "minimalOrder": {
+        "amount": "1196.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "FUN"
+      ],
+      "minimalOrder": {
+        "amount": "1196.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "FUN"
+      ],
+      "minimalOrder": {
+        "amount": "1196.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "ZRX"
+      ],
+      "minimalOrder": {
+        "amount": "20.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "ZRX"
+      ],
+      "minimalOrder": {
+        "amount": "20.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "ZRX"
+      ],
+      "minimalOrder": {
+        "amount": "20.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "TNB"
+      ],
+      "minimalOrder": {
+        "amount": "1418.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "TNB"
+      ],
+      "minimalOrder": {
+        "amount": "1418.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "TNB"
+      ],
+      "minimalOrder": {
+        "amount": "1418.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "SPK"
+      ],
+      "minimalOrder": {
+        "amount": "320.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "SPK"
+      ],
+      "minimalOrder": {
+        "amount": "320.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "SPK"
+      ],
+      "minimalOrder": {
+        "amount": "320.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "TRX"
+      ],
+      "minimalOrder": {
+        "amount": "548.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "TRX"
+      ],
+      "minimalOrder": {
+        "amount": "548.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "TRX"
+      ],
+      "minimalOrder": {
+        "amount": "548.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "RCN"
+      ],
+      "minimalOrder": {
+        "amount": "518.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "RCN"
+      ],
+      "minimalOrder": {
+        "amount": "518.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "RCN"
+      ],
+      "minimalOrder": {
+        "amount": "518.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "RLC"
+      ],
+      "minimalOrder": {
+        "amount": "32.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "RLC"
+      ],
+      "minimalOrder": {
+        "amount": "32.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "RLC"
+      ],
+      "minimalOrder": {
+        "amount": "32.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "AID"
+      ],
+      "minimalOrder": {
+        "amount": "236.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "AID"
+      ],
+      "minimalOrder": {
+        "amount": "236.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "AID"
+      ],
+      "minimalOrder": {
+        "amount": "236.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "SNG"
+      ],
+      "minimalOrder": {
+        "amount": "562.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "SNG"
+      ],
+      "minimalOrder": {
+        "amount": "562.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "SNG"
+      ],
+      "minimalOrder": {
+        "amount": "562.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "REP"
+      ],
+      "minimalOrder": {
+        "amount": "1.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "REP"
+      ],
+      "minimalOrder": {
+        "amount": "1.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "REP"
+      ],
+      "minimalOrder": {
+        "amount": "1.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "ELF"
+      ],
+      "minimalOrder": {
+        "amount": "46.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "ELF"
+      ],
+      "minimalOrder": {
+        "amount": "46.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "ELF"
+      ],
+      "minimalOrder": {
+        "amount": "46.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "GBP",
+        "BTC"
+      ],
+      "minimalOrder": {
+        "amount": "0.002",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "EUR",
+        "ETH"
+      ],
+      "minimalOrder": {
+        "amount": "0.06",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "JPY",
+        "ETH"
+      ],
+      "minimalOrder": {
+        "amount": "0.06",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "GBP",
+        "ETH"
+      ],
+      "minimalOrder": {
+        "amount": "0.06",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "EUR",
+        "NEO"
+      ],
+      "minimalOrder": {
+        "amount": "0.8",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "JPY",
+        "NEO"
+      ],
+      "minimalOrder": {
+        "amount": "0.8",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "GBP",
+        "NEO"
+      ],
+      "minimalOrder": {
+        "amount": "0.8",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "EUR",
+        "EOS"
+      ],
+      "minimalOrder": {
+        "amount": "2.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "JPY",
+        "EOS"
+      ],
+      "minimalOrder": {
+        "amount": "2.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "GBP",
+        "EOS"
+      ],
+      "minimalOrder": {
+        "amount": "2.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "JPY",
+        "IOT"
+      ],
+      "minimalOrder": {
+        "amount": "24.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "GBP",
+        "IOT"
+      ],
+      "minimalOrder": {
+        "amount": "24.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "IOS"
+      ],
+      "minimalOrder": {
+        "amount": "1170.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "IOS"
+      ],
+      "minimalOrder": {
+        "amount": "1170.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "IOS"
+      ],
+      "minimalOrder": {
+        "amount": "1170.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "AIO"
+      ],
+      "minimalOrder": {
+        "amount": "34.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "AIO"
+      ],
+      "minimalOrder": {
+        "amount": "34.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "AIO"
+      ],
+      "minimalOrder": {
+        "amount": "34.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "REQ"
+      ],
+      "minimalOrder": {
+        "amount": "302.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "REQ"
+      ],
+      "minimalOrder": {
+        "amount": "302.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "REQ"
+      ],
+      "minimalOrder": {
+        "amount": "302.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "RDN"
+      ],
+      "minimalOrder": {
+        "amount": "32.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "RDN"
+      ],
+      "minimalOrder": {
+        "amount": "32.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "RDN"
+      ],
+      "minimalOrder": {
+        "amount": "32.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "LRC"
+      ],
+      "minimalOrder": {
+        "amount": "144.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "LRC"
+      ],
+      "minimalOrder": {
+        "amount": "144.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "LRC"
+      ],
+      "minimalOrder": {
+        "amount": "144.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
+        "WAX"
+      ],
+      "minimalOrder": {
+        "amount": "166.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "WAX"
+      ],
+      "minimalOrder": {
+        "amount": "166.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "ETH",
+        "WAX"
+      ],
+      "minimalOrder": {
+        "amount": "166.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "USD",
         "DAI"
       ],
       "minimalOrder": {
@@ -3221,16 +3258,6 @@
     {
       "pair": [
         "USD",
-        "BSV"
-      ],
-      "minimalOrder": {
-        "amount": "0.1",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
         "BSV"
       ],
       "minimalOrder": {
