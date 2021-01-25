@@ -1,5 +1,6 @@
 {
   "assets": [
+   	"ADA",
     "BTC",
     "LTC",
     "ETH",
@@ -119,6 +120,16 @@
     "EOS"
   ],
   "markets": [
+	{
+	  "pair": [
+	    "BTC",
+	    "ADA"
+	  ],
+	  "minimalOrder": {
+	    "amount": "2.0",
+	    "unit": "asset"
+	  }
+	},
     {
       "pair": [
         "USD",
