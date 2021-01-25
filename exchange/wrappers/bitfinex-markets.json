@@ -1,6 +1,7 @@
 {
   "assets": [
    	"ADA",
+   	"ALGO",
     "BTC",
     "LTC",
     "ETH",
@@ -129,6 +130,14 @@
 	    "amount": "2.0",
 	    "unit": "asset"
 	  }
+	},
+	{
+	  "pair": [
+	    "BTC",
+	    "ALGO"
+	  ],
+	  "minimalOrder": "2.0",
+	  "unit": "asset"
 	},
     {
       "pair": [
