@@ -14,25 +14,26 @@
 	"DOG",
 	"DOT",
     "DSH",
-    "DUSK",				//Verify - Failed import
+    "DUSK",
+    "EDO",
+    "EOS",
+    "ETC",
+    "ETH",
+    "ETP",
+    "EXRD",
 
 
     "LTC",
-    "ETH",
-    "ETC",
     "RRT",
     "ZEC",
     "XMR",
     "XRP",
     "IOT",
-    "EOS",
     "SAN",
     "OMG",
     "NEO",
-    "ETP",
     "QTM",
     "AVT",
-    "EDO",
     "QSH",
     "YYW",
     "GNT",
@@ -264,6 +265,66 @@
         "unit": "asset"
       }
     },
+    {
+      "pair": [
+        "BTC",
+        "EDO"
+      ],
+      "minimalOrder": {
+        "amount": "16.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "EOS"
+      ],
+      "minimalOrder": {
+        "amount": "2.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "ETC"
+      ],
+      "minimalOrder": {
+        "amount": "2.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "ETH"
+      ],
+      "minimalOrder": {
+        "amount": "0.06",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "ETP"
+      ],
+      "minimalOrder": {
+        "amount": "8.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "EXRD"
+      ],
+      "minimalOrder": {
+        "amount": "2.0",
+        "unit": "asset"
+      }
+    },
 
 
 
@@ -314,26 +375,6 @@
       ],
       "minimalOrder": {
         "amount": "0.06",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "ETH"
-      ],
-      "minimalOrder": {
-        "amount": "0.06",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "ETC"
-      ],
-      "minimalOrder": {
-        "amount": "2.0",
         "unit": "asset"
       }
     },
@@ -509,16 +550,6 @@
     },
     {
       "pair": [
-        "BTC",
-        "EOS"
-      ],
-      "minimalOrder": {
-        "amount": "2.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
         "ETH",
         "EOS"
       ],
@@ -629,16 +660,6 @@
     },
     {
       "pair": [
-        "BTC",
-        "ETP"
-      ],
-      "minimalOrder": {
-        "amount": "8.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
         "ETH",
         "ETP"
       ],
@@ -710,16 +731,6 @@
     {
       "pair": [
         "USD",
-        "EDO"
-      ],
-      "minimalOrder": {
-        "amount": "16.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
         "EDO"
       ],
       "minimalOrder": {
