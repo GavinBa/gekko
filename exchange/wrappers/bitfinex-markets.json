@@ -40,7 +40,6 @@
     "ZEC",
     "ZRX",
 
-    "IOS",
     "REQ",
     "RDN",
     "LRC",
@@ -455,16 +454,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "IOS"
-      ],
-      "minimalOrder": {
-        "amount": "1170.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
