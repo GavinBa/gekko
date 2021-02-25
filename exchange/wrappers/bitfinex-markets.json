@@ -45,7 +45,6 @@
 
 
 
-    "PAI",
     "SEE",
     "ESS",
     "HOT",
@@ -483,16 +482,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "PAI"
-      ],
-      "minimalOrder": {
-        "amount": "82.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
