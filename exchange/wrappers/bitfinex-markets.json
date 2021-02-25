@@ -25,9 +25,9 @@
 
     "LTC",
 
+    "ZEC",
     "ZRX",
 
-    "ZEC",
     "XMR",
     "XRP",
     "IOT",
@@ -339,6 +339,16 @@
     {
       "pair": [
         "BTC",
+        "ZEC"
+      ],
+      "minimalOrder": {
+        "amount": "0.1",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
         "ZRX"
       ],
       "minimalOrder": {
@@ -349,16 +359,6 @@
 
 
 
-    {
-      "pair": [
-        "BTC",
-        "ZEC"
-      ],
-      "minimalOrder": {
-        "amount": "0.1",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
