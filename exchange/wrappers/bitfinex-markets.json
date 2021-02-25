@@ -42,7 +42,6 @@
 
 
 
-    "ODE",
     "DTH",
     "MIT",
     "STJ",
@@ -466,16 +465,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "ODE"
-      ],
-      "minimalOrder": {
-        "amount": "86.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
