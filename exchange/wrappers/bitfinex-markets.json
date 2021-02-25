@@ -45,7 +45,6 @@
 
 
 
-    "ORS",
     "AUC",
     "POY",
     "FSN",
@@ -494,16 +493,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "ORS"
-      ],
-      "minimalOrder": {
-        "amount": "476.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
