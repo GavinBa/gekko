@@ -36,10 +36,10 @@
     "SAN",
     "STJ",
     "TRX",
+    "VET",
     "XLM",
     "XMR",
     "XRP",
-
     "ZEC",
     "ZRX",
 
@@ -50,7 +50,6 @@
     "NIO",
     "DGX",
     
-    "VET",
     "UTN",
     "TKN",
     "GOT",
@@ -422,6 +421,16 @@
     {
       "pair": [
         "BTC",
+        "VET"
+      ],
+      "minimalOrder": {
+        "amount": "1286.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
         "XLM"
       ],
       "minimalOrder": {
@@ -472,16 +481,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "VET"
-      ],
-      "minimalOrder": {
-        "amount": "1286.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
