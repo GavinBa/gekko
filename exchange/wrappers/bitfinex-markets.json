@@ -37,6 +37,7 @@
     "SAN",
     "STJ",
     "TRX",
+	"UOS",
     "VET",
     "XLM",
     "XMR",
@@ -404,6 +405,16 @@
         "amount": "548.0",
         "unit": "asset"
       }
+    },
+    {
+      "pair": [
+        "BTC",
+        "UOS"
+       ],
+       "minimalOrder": {
+         "amount": "0.0001",
+         "unit": "currency"
+       }
     },
     {
       "pair": [
