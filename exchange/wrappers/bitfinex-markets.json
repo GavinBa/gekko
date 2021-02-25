@@ -377,7 +377,6 @@
         "unit": "asset"
       }
     },
-v
 
     {
       "pair": [
@@ -980,6 +979,6 @@ v
         "amount": "2.0",
         "unit": "asset"
       }
-    },
+    }
   ]
 }
