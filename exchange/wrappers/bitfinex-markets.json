@@ -32,8 +32,8 @@
     "QTM",
     "REP",
     "SAN",
+    "STJ",
     "TRX",
-
     "XMR",
     "XRP",
 
@@ -42,7 +42,6 @@
 
 
 
-    "STJ",
     "XLM",
     "XVG",
     "BCI",
@@ -413,6 +412,16 @@
     {
       "pair": [
         "BTC",
+        "STJ"
+      ],
+      "minimalOrder": {
+        "amount": "44.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
         "TRX"
       ],
       "minimalOrder": {
@@ -463,16 +472,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "STJ"
-      ],
-      "minimalOrder": {
-        "amount": "44.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
