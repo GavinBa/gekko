@@ -48,7 +48,6 @@
     "RLC",
     "SNG",
     "REP",
-    "ELF",
     "IOS",
     "AIO",
     "REQ",
@@ -571,16 +570,6 @@
       ],
       "minimalOrder": {
         "amount": "1.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "ELF"
-      ],
-      "minimalOrder": {
-        "amount": "46.0",
         "unit": "asset"
       }
     },
