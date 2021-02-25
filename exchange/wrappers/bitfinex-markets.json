@@ -40,7 +40,6 @@
     "ZEC",
     "ZRX",
 
-    "RCN",
     "RLC",
     "SNG",
     "REP",
@@ -449,16 +448,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "RCN"
-      ],
-      "minimalOrder": {
-        "amount": "518.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
