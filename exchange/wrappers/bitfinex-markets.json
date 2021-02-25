@@ -30,7 +30,7 @@
     "NEO",
     "OMG",
     "QTM",
-
+    "REP",
     "SAN",
     "TRX",
 
@@ -40,7 +40,6 @@
     "ZEC",
     "ZRX",
 
-    "REP",
     "IOS",
     "REQ",
     "RDN",
@@ -386,6 +385,16 @@
     {
       "pair": [
         "BTC",
+        "REP"
+      ],
+      "minimalOrder": {
+        "amount": "1.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
         "SAN"
       ],
       "minimalOrder": {
@@ -446,16 +455,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "REP"
-      ],
-      "minimalOrder": {
-        "amount": "1.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
