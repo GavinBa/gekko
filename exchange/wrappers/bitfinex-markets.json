@@ -45,7 +45,6 @@
 
 
 
-    "AUC",
     "POY",
     "FSN",
     
@@ -493,16 +492,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "AUC"
-      ],
-      "minimalOrder": {
-        "amount": "304.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
