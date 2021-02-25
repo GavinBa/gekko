@@ -45,8 +45,6 @@
 
 
 
-    "WPR",
-    "ZIL",
     "BNT",
     "XRA",
     "MAN",
@@ -476,26 +474,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "WPR"
-      ],
-      "minimalOrder": {
-        "amount": "590.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "ZIL"
-      ],
-      "minimalOrder": {
-        "amount": "382.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
