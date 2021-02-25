@@ -49,7 +49,6 @@
     "SNG",
     "REP",
     "IOS",
-    "AIO",
     "REQ",
     "RDN",
     "LRC",
@@ -580,16 +579,6 @@
       ],
       "minimalOrder": {
         "amount": "1170.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "AIO"
-      ],
-      "minimalOrder": {
-        "amount": "34.0",
         "unit": "asset"
       }
     },
