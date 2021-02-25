@@ -45,7 +45,6 @@
 
 
 
-    "SEN",
     "NCA",
     "CND",
     "CTX",
@@ -487,16 +486,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "SEN"
-      ],
-      "minimalOrder": {
-        "amount": "3840.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
