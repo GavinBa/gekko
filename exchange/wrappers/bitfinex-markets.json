@@ -45,7 +45,6 @@
 
 
 
-    "BNT",
     "XRA",
     "MAN",
     "BBN",
@@ -474,16 +473,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "BNT"
-      ],
-      "minimalOrder": {
-        "amount": "10.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
