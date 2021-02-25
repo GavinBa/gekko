@@ -23,6 +23,8 @@
     "EURS",
     "EXRD",
 
+    "IOT",
+
     "LTC",
 
     "XMR",
@@ -31,7 +33,6 @@
     "ZEC",
     "ZRX",
 
-    "IOT",
     "SAN",
     "OMG",
     "NEO",
@@ -324,6 +325,16 @@
       }
     },
 
+    {
+      "pair": [
+        "BTC",
+        "IOT"
+      ],
+      "minimalOrder": {
+        "amount": "24.0",
+        "unit": "asset"
+      }
+    },
 
     {
       "pair": [
@@ -380,16 +391,6 @@ v
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "IOT"
-      ],
-      "minimalOrder": {
-        "amount": "24.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
