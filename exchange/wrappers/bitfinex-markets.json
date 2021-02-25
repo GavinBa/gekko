@@ -39,7 +39,6 @@
     "ZEC",
     "ZRX",
 
-    "SNT",
     "MNA",
     "TNB",
     "SPK",
@@ -435,16 +434,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "SNT"
-      ],
-      "minimalOrder": {
-        "amount": "334.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
