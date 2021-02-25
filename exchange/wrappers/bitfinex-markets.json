@@ -39,7 +39,6 @@
     "ZEC",
     "ZRX",
 
-    "QSH",
     "YYW",
     "GNT",
     "SNT",
@@ -429,16 +428,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "QSH"
-      ],
-      "minimalOrder": {
-        "amount": "68.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
