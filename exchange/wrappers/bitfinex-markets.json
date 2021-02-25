@@ -46,7 +46,6 @@
     "TRX",
     "RCN",
     "RLC",
-    "AID",
     "SNG",
     "REP",
     "ELF",
@@ -552,16 +551,6 @@
       ],
       "minimalOrder": {
         "amount": "32.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "AID"
-      ],
-      "minimalOrder": {
-        "amount": "236.0",
         "unit": "asset"
       }
     },
