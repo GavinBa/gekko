@@ -24,6 +24,10 @@
     "EXRD",
 
     "LTC",
+
+    "ZRX",
+
+
     "RRT",
     "ZEC",
     "XMR",
@@ -39,7 +43,6 @@
     "GNT",
     "SNT",
     "MNA",
-    "ZRX",
     "TNB",
     "SPK",
     "TRX",
@@ -330,8 +333,6 @@
     },
 
 
-
-
     {
       "pair": [
         "BTC",
@@ -342,6 +343,24 @@
         "unit": "asset"
       }
     },
+
+
+    {
+      "pair": [
+        "BTC",
+        "ZRX"
+      ],
+      "minimalOrder": {
+        "amount": "20.0",
+        "unit": "asset"
+      }
+    },
+
+
+
+
+
+
     {
       "pair": [
         "BTC",
@@ -499,16 +518,6 @@
       ],
       "minimalOrder": {
         "amount": "164.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "ZRX"
-      ],
-      "minimalOrder": {
-        "amount": "20.0",
         "unit": "asset"
       }
     },
