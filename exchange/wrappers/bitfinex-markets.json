@@ -27,8 +27,6 @@
 
     "ZRX",
 
-
-    "RRT",
     "ZEC",
     "XMR",
     "XRP",
@@ -358,19 +356,6 @@
 
 
 
-
-
-
-    {
-      "pair": [
-        "BTC",
-        "RRT"
-      ],
-      "minimalOrder": {
-        "amount": "294.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
