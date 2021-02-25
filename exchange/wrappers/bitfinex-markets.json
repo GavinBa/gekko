@@ -112,7 +112,6 @@
     "INT",
     "DRN",
     "PNK",
-    "DGB",
     "BAB"
   ],
   "currencies": [
@@ -980,16 +979,6 @@ v
       ],
       "minimalOrder": {
         "amount": "2.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "DGB"
-      ],
-      "minimalOrder": {
-        "amount": "566.0",
         "unit": "asset"
       }
     },
