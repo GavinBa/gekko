@@ -45,8 +45,6 @@
 
 
 
-    "HOT",
-    
     "DTA",
     "IQX",
     "WPR",
@@ -480,16 +478,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "HOT"
-      ],
-      "minimalOrder": {
-        "amount": "1408.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
