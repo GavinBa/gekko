@@ -45,7 +45,6 @@
 
 
 
-    "CBT",
     "ZCN",
     "SEN",
     "NCA",
@@ -489,16 +488,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "CBT"
-      ],
-      "minimalOrder": {
-        "amount": "1228.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
