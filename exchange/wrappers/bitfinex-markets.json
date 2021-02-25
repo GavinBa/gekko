@@ -45,7 +45,6 @@
 
 
 
-    "CTX",
     "PAI",
     "SEE",
     "ESS",
@@ -484,16 +483,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "CTX"
-      ],
-      "minimalOrder": {
-        "amount": "48.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
