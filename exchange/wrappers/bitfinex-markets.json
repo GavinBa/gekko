@@ -39,7 +39,6 @@
     "ZEC",
     "ZRX",
 
-    "AVT",
     "QSH",
     "YYW",
     "GNT",
@@ -430,16 +429,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "AVT"
-      ],
-      "minimalOrder": {
-        "amount": "36.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
