@@ -45,7 +45,6 @@
 
 
 
-    "SEE",
     "ESS",
     "HOT",
     
@@ -482,16 +481,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "SEE"
-      ],
-      "minimalOrder": {
-        "amount": "12382.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
