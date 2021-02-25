@@ -45,7 +45,6 @@
 
 
 
-    "NCA",
     "CND",
     "CTX",
     "PAI",
@@ -486,16 +485,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "NCA"
-      ],
-      "minimalOrder": {
-        "amount": "2572.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
