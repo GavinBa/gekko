@@ -27,6 +27,7 @@
 
     "LTC",
 
+    "NEO",
     "OMG",
 
     "SAN",
@@ -37,7 +38,6 @@
     "ZEC",
     "ZRX",
 
-    "NEO",
     "QTM",
     "AVT",
     "QSH",
@@ -349,6 +349,16 @@
     {
       "pair": [
         "BTC",
+        "NEO"
+      ],
+      "minimalOrder": {
+        "amount": "0.8",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
         "OMG"
       ],
       "minimalOrder": {
@@ -410,16 +420,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "NEO"
-      ],
-      "minimalOrder": {
-        "amount": "0.8",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
