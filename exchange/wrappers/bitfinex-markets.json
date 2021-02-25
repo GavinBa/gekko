@@ -39,7 +39,6 @@
     "ZEC",
     "ZRX",
 
-    "TNB",
     "SPK",
     "TRX",
     "RCN",
@@ -442,16 +441,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "TNB"
-      ],
-      "minimalOrder": {
-        "amount": "1418.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
