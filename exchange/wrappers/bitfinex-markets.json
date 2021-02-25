@@ -42,7 +42,6 @@
 
 
 
-    "MIT",
     "STJ",
     "XLM",
     "XVG",
@@ -464,16 +463,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "MIT"
-      ],
-      "minimalOrder": {
-        "amount": "44.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
