@@ -31,6 +31,7 @@
     "MNA",
     "NEO",
     "OMG",
+    "OMN",
     "QTM",
     "REP",
     "SAN",
@@ -63,7 +64,6 @@
     "MLN",
     "WTC",
     "CSX",
-    "OMN",
     "INT",
     "DRN",
     "PNK"
@@ -371,6 +371,16 @@
     {
       "pair": [
         "BTC",
+        "OMN"
+      ],
+      "minimalOrder": {
+        "amount": "2.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
         "QTM"
       ],
       "minimalOrder": {
@@ -485,18 +495,6 @@
       ],
       "minimalOrder": {
         "amount": "20.0",
-        "unit": "asset"
-      }
-    },
-
-
-    {
-      "pair": [
-        "BTC",
-        "OMN"
-      ],
-      "minimalOrder": {
-        "amount": "2.0",
         "unit": "asset"
       }
     }
