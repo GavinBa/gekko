@@ -40,6 +40,7 @@
     "XLM",
     "XMR",
     "XRP",
+    "XTZ",
     "ZEC",
     "ZRX",
 
@@ -53,7 +54,6 @@
     "UTN",
     "TKN",
     "GOT",
-    "XTZ",
     "CNN",
     "BOX",
     "MGO",
@@ -458,7 +458,16 @@
         "unit": "asset"
       }
     },
-
+    {
+      "pair": [
+        "BTC",
+        "XTZ"
+      ],
+      "minimalOrder": {
+        "amount": "8.0",
+        "unit": "asset"
+      }
+    },
     {
       "pair": [
         "BTC",
@@ -481,16 +490,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "XTZ"
-      ],
-      "minimalOrder": {
-        "amount": "8.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
