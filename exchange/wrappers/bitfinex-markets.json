@@ -40,7 +40,6 @@
     "ZEC",
     "ZRX",
 
-    "RLC",
     "SNG",
     "REP",
     "IOS",
@@ -448,16 +447,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "RLC"
-      ],
-      "minimalOrder": {
-        "amount": "32.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
