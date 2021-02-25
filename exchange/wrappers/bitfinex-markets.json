@@ -45,8 +45,6 @@
 
 
 
-    "FSN",
-    
     "CBT",
     "ZCN",
     "SEN",
@@ -491,16 +489,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "FSN"
-      ],
-      "minimalOrder": {
-        "amount": "14.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
