@@ -121,7 +121,6 @@
   ],
   "currencies": [
     "BTC",
-    "EUR",
     "JPY",
     "ETH",
     "GBP",
@@ -390,16 +389,6 @@
     },
     {
       "pair": [
-        "EUR",
-        "BTC"
-      ],
-      "minimalOrder": {
-        "amount": "0.002",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
         "JPY",
         "BTC"
       ],
@@ -655,16 +644,6 @@
       ],
       "minimalOrder": {
         "amount": "334.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "EUR",
-        "IOT"
-      ],
-      "minimalOrder": {
-        "amount": "24.0",
         "unit": "asset"
       }
     },
@@ -930,16 +909,6 @@
     },
     {
       "pair": [
-        "EUR",
-        "ETH"
-      ],
-      "minimalOrder": {
-        "amount": "0.06",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
         "JPY",
         "ETH"
       ],
@@ -960,16 +929,6 @@
     },
     {
       "pair": [
-        "EUR",
-        "NEO"
-      ],
-      "minimalOrder": {
-        "amount": "0.8",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
         "JPY",
         "NEO"
       ],
@@ -985,16 +944,6 @@
       ],
       "minimalOrder": {
         "amount": "0.8",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "EUR",
-        "EOS"
-      ],
-      "minimalOrder": {
-        "amount": "2.0",
         "unit": "asset"
       }
     },
@@ -1340,16 +1289,6 @@
     },
     {
       "pair": [
-        "EUR",
-        "XLM"
-      ],
-      "minimalOrder": {
-        "amount": "56.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
         "JPY",
         "XLM"
       ],
@@ -1385,16 +1324,6 @@
       ],
       "minimalOrder": {
         "amount": "56.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "EUR",
-        "XVG"
-      ],
-      "minimalOrder": {
-        "amount": "1024.0",
         "unit": "asset"
       }
     },
@@ -2060,16 +1989,6 @@
     },
     {
       "pair": [
-        "EUR",
-        "GOT"
-      ],
-      "minimalOrder": {
-        "amount": "20.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
         "ETH",
         "GOT"
       ],
@@ -2105,16 +2024,6 @@
       ],
       "minimalOrder": {
         "amount": "1252.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "EUR",
-        "TRX"
-      ],
-      "minimalOrder": {
-        "amount": "526.0",
         "unit": "asset"
       }
     },
