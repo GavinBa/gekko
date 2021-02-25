@@ -42,7 +42,6 @@
 
 
 
-    "DTH",
     "MIT",
     "STJ",
     "XLM",
@@ -465,16 +464,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "DTH"
-      ],
-      "minimalOrder": {
-        "amount": "958.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
