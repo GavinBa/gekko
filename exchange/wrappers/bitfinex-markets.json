@@ -45,7 +45,6 @@
 
 
 
-    "VEE",
     "DAD",
     "ORS",
     "AUC",
@@ -496,16 +495,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "VEE"
-      ],
-      "minimalOrder": {
-        "amount": "1430.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
