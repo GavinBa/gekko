@@ -45,7 +45,6 @@
 
 
 
-    "ZCN",
     "SEN",
     "NCA",
     "CND",
@@ -488,16 +487,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "ZCN"
-      ],
-      "minimalOrder": {
-        "amount": "90.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
