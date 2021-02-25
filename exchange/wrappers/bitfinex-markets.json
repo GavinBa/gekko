@@ -120,8 +120,7 @@
     "BAB"
   ],
   "currencies": [
-    "BTC",
-    "EOS"
+    "BTC"
   ],
   "markets": [
 	{
@@ -1007,16 +1006,6 @@
     {
       "pair": [
         "BTC",
-        "IQX"
-      ],
-      "minimalOrder": {
-        "amount": "1798.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "EOS",
         "IQX"
       ],
       "minimalOrder": {
