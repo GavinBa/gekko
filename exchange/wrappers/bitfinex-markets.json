@@ -40,7 +40,6 @@
     "ZEC",
     "ZRX",
 
-    "SNG",
     "REP",
     "IOS",
     "REQ",
@@ -447,16 +446,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "SNG"
-      ],
-      "minimalOrder": {
-        "amount": "562.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
