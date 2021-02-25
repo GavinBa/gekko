@@ -24,7 +24,7 @@
     "EXRD",
     "GNT",
     "IOT",
-
+    "LRC",
     "LTC",
     "MNA",
     "NEO",
@@ -40,7 +40,6 @@
     "ZEC",
     "ZRX",
 
-    "LRC",
     "WAX",
     "MTN",
     "ODE",
@@ -332,6 +331,16 @@
     {
       "pair": [
         "BTC",
+        "LRC"
+      ],
+      "minimalOrder": {
+        "amount": "144.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
         "LTC"
       ],
       "minimalOrder": {
@@ -452,16 +461,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "LRC"
-      ],
-      "minimalOrder": {
-        "amount": "144.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
