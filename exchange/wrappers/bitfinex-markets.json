@@ -45,7 +45,6 @@
 
 
 
-    "DTA",
     "IQX",
     "WPR",
     "ZIL",
@@ -478,16 +477,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "DTA"
-      ],
-      "minimalOrder": {
-        "amount": "5572.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
