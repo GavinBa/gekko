@@ -34,6 +34,7 @@
     "SAN",
     "STJ",
     "TRX",
+    "XLM",
     "XMR",
     "XRP",
 
@@ -42,7 +43,6 @@
 
 
 
-    "XLM",
     "XVG",
     "BCI",
     "MKR",
@@ -432,6 +432,16 @@
     {
       "pair": [
         "BTC",
+        "XLM"
+      ],
+      "minimalOrder": {
+        "amount": "56.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
         "XMR"
       ],
       "minimalOrder": {
@@ -472,16 +482,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "XLM"
-      ],
-      "minimalOrder": {
-        "amount": "56.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
