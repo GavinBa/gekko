@@ -39,7 +39,6 @@
     "ZEC",
     "ZRX",
 
-    "YYW",
     "GNT",
     "SNT",
     "MNA",
@@ -428,16 +427,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "YYW"
-      ],
-      "minimalOrder": {
-        "amount": "510.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
