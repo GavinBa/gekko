@@ -45,7 +45,6 @@
 
 
 
-    "DAD",
     "ORS",
     "AUC",
     "POY",
@@ -495,16 +494,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "DAD"
-      ],
-      "minimalOrder": {
-        "amount": "140.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
