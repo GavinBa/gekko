@@ -45,8 +45,6 @@
 
 
 
-
-    "POA",
     "LYM",
     "UTK",
     "VEE",
@@ -500,16 +498,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "POA"
-      ],
-      "minimalOrder": {
-        "amount": "184.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
