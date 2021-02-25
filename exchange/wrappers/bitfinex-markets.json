@@ -40,8 +40,8 @@
     "ZEC",
     "ZRX",
 
-    "WAX",
-    "MTN",
+
+
     "ODE",
     "DTH",
     "MIT",
@@ -50,6 +50,7 @@
     "XVG",
     "BCI",
     "MKR",
+
     "KNC",
     "POA",
     "LYM",
@@ -60,6 +61,7 @@
     "AUC",
     "POY",
     "FSN",
+    
     "CBT",
     "ZCN",
     "SEN",
@@ -70,6 +72,7 @@
     "SEE",
     "ESS",
     "HOT",
+    
     "DTA",
     "IQX",
     "WPR",
@@ -80,6 +83,7 @@
     "BBN",
     "NIO",
     "DGX",
+    
     "VET",
     "UTN",
     "TKN",
@@ -90,6 +94,7 @@
     "MGO",
     "RTE",
     "YGG",
+    
     "MLN",
     "WTC",
     "CSX",
@@ -461,26 +466,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "WAX"
-      ],
-      "minimalOrder": {
-        "amount": "166.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "MTN"
-      ],
-      "minimalOrder": {
-        "amount": "606.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
