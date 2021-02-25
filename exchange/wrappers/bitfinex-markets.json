@@ -27,13 +27,14 @@
 
     "LTC",
 
+    "SAN",
+
     "XMR",
     "XRP",
 
     "ZEC",
     "ZRX",
 
-    "SAN",
     "OMG",
     "NEO",
     "QTM",
@@ -350,6 +351,17 @@
     {
       "pair": [
         "BTC",
+        "SAN"
+      ],
+      "minimalOrder": {
+        "amount": "24.0",
+        "unit": "asset"
+      }
+    },
+
+    {
+      "pair": [
+        "BTC",
         "XMR"
       ],
       "minimalOrder": {
@@ -391,16 +403,6 @@ v
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "SAN"
-      ],
-      "minimalOrder": {
-        "amount": "24.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
