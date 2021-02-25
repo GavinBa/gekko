@@ -380,17 +380,6 @@ v
     },
 
 
-
-    {
-      "pair": [
-        "BTC",
-        "DSH"
-      ],
-      "minimalOrder": {
-        "amount": "0.08",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
