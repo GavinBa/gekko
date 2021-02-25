@@ -24,6 +24,7 @@
     "EXRD",
     "GNT",
     "IOT",
+    "KNC",
     "LRC",
     "LTC",
     "MKR",
@@ -45,7 +46,6 @@
 
 
 
-    "KNC",
     "POA",
     "LYM",
     "UTK",
@@ -330,6 +330,16 @@
     {
       "pair": [
         "BTC",
+        "KNC"
+      ],
+      "minimalOrder": {
+        "amount": "36.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
         "LRC"
       ],
       "minimalOrder": {
@@ -490,16 +500,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "KNC"
-      ],
-      "minimalOrder": {
-        "amount": "36.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
