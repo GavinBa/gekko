@@ -45,7 +45,6 @@
 
 
 
-    "ESS",
     "HOT",
     
     "DTA",
@@ -481,16 +480,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "ESS"
-      ],
-      "minimalOrder": {
-        "amount": "3054.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
