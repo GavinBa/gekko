@@ -27,6 +27,8 @@
 
     "LTC",
 
+    "OMG",
+
     "SAN",
 
     "XMR",
@@ -35,7 +37,6 @@
     "ZEC",
     "ZRX",
 
-    "OMG",
     "NEO",
     "QTM",
     "AVT",
@@ -345,7 +346,16 @@
         "unit": "asset"
       }
     },
-
+    {
+      "pair": [
+        "BTC",
+        "OMG"
+      ],
+      "minimalOrder": {
+        "amount": "4.0",
+        "unit": "asset"
+      }
+    },
     {
       "pair": [
         "BTC",
@@ -400,16 +410,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "OMG"
-      ],
-      "minimalOrder": {
-        "amount": "4.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
