@@ -45,7 +45,6 @@
 
 
 
-    "UTK",
     "VEE",
     "DAD",
     "ORS",
@@ -497,16 +496,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "UTK"
-      ],
-      "minimalOrder": {
-        "amount": "426.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
