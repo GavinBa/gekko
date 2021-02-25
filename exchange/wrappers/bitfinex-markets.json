@@ -111,8 +111,7 @@
     "OMN",
     "INT",
     "DRN",
-    "PNK",
-    "BAB"
+    "PNK"
   ],
   "currencies": [
     "BTC"
@@ -982,15 +981,5 @@ v
         "unit": "asset"
       }
     },
-    {
-      "pair": [
-        "BTC",
-        "BAB"
-      ],
-      "minimalOrder": {
-        "amount": "0.04",
-        "unit": "asset"
-      }
-    }
   ]
 }
