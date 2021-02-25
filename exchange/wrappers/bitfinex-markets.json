@@ -45,7 +45,6 @@
 
 
 
-    "POY",
     "FSN",
     
     "CBT",
@@ -492,16 +491,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "POY"
-      ],
-      "minimalOrder": {
-        "amount": "70.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
