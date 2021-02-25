@@ -45,7 +45,6 @@
 
 
 
-    "LYM",
     "UTK",
     "VEE",
     "DAD",
@@ -498,16 +497,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "LYM"
-      ],
-      "minimalOrder": {
-        "amount": "874.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
