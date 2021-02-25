@@ -26,11 +26,11 @@
     "LTC",
 
     "XMR",
+    "XRP",
 
     "ZEC",
     "ZRX",
 
-    "XRP",
     "IOT",
     "SAN",
     "OMG",
@@ -346,7 +346,17 @@
         "unit": "asset"
       }
     },
-
+    {
+      "pair": [
+        "BTC",
+        "XRP"
+      ],
+      "minimalOrder": {
+        "amount": "38.0",
+        "unit": "asset"
+      }
+    },
+v
 
     {
       "pair": [
@@ -378,16 +388,6 @@
       ],
       "minimalOrder": {
         "amount": "0.08",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "XRP"
-      ],
-      "minimalOrder": {
-        "amount": "38.0",
         "unit": "asset"
       }
     },
