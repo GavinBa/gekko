@@ -53,7 +53,6 @@
     "RDN",
     "LRC",
     "WAX",
-    "BFT",
     "MTN",
     "ODE",
     "DTH",
@@ -617,16 +616,6 @@
       ],
       "minimalOrder": {
         "amount": "166.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "BFT"
-      ],
-      "minimalOrder": {
-        "amount": "272.0",
         "unit": "asset"
       }
     },
