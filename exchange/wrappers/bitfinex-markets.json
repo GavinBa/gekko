@@ -39,7 +39,6 @@
     "GNT",
     "SNT",
     "MNA",
-    "FUN",
     "ZRX",
     "TNB",
     "SPK",
@@ -500,16 +499,6 @@
       ],
       "minimalOrder": {
         "amount": "164.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "FUN"
-      ],
-      "minimalOrder": {
-        "amount": "1196.0",
         "unit": "asset"
       }
     },
