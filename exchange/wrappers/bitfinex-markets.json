@@ -22,7 +22,7 @@
     "ETP",
     "EURS",
     "EXRD",
-
+    "GNT",
     "IOT",
 
     "LTC",
@@ -39,7 +39,6 @@
     "ZEC",
     "ZRX",
 
-    "GNT",
     "SNT",
     "MNA",
     "TNB",
@@ -321,7 +320,16 @@
         "unit": "asset"
       }
     },
-
+    {
+      "pair": [
+        "BTC",
+        "GNT"
+      ],
+      "minimalOrder": {
+        "amount": "82.0",
+        "unit": "asset"
+      }
+    },
     {
       "pair": [
         "BTC",
@@ -427,16 +435,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "GNT"
-      ],
-      "minimalOrder": {
-        "amount": "82.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
