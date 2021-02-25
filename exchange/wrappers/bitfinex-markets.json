@@ -26,6 +26,7 @@
     "IOT",
     "LRC",
     "LTC",
+    "MKR",
     "MNA",
     "NEO",
     "OMG",
@@ -43,9 +44,6 @@
 
 
 
-    "XVG",
-    "BCI",
-    "MKR",
 
     "KNC",
     "POA",
@@ -352,6 +350,16 @@
     {
       "pair": [
         "BTC",
+        "MKR"
+      ],
+      "minimalOrder": {
+        "amount": "0.04",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
         "MNA"
       ],
       "minimalOrder": {
@@ -482,36 +490,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "XVG"
-      ],
-      "minimalOrder": {
-        "amount": "1024.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "BCI"
-      ],
-      "minimalOrder": {
-        "amount": "16.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "MKR"
-      ],
-      "minimalOrder": {
-        "amount": "0.04",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
