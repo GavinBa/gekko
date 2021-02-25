@@ -45,7 +45,6 @@
 
 
 
-    "CND",
     "CTX",
     "PAI",
     "SEE",
@@ -485,16 +484,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "CND"
-      ],
-      "minimalOrder": {
-        "amount": "606.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
