@@ -40,7 +40,6 @@
     "ZEC",
     "ZRX",
 
-    "RDN",
     "LRC",
     "WAX",
     "MTN",
@@ -453,16 +452,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "RDN"
-      ],
-      "minimalOrder": {
-        "amount": "32.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
