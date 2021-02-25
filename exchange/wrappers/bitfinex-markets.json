@@ -39,7 +39,6 @@
     "ZEC",
     "ZRX",
 
-    "SPK",
     "TRX",
     "RCN",
     "RLC",
@@ -441,16 +440,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "SPK"
-      ],
-      "minimalOrder": {
-        "amount": "320.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
