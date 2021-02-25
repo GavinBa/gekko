@@ -26,7 +26,7 @@
     "IOT",
 
     "LTC",
-
+    "MNA",
     "NEO",
     "OMG",
     "QTM",
@@ -39,7 +39,6 @@
     "ZEC",
     "ZRX",
 
-    "MNA",
     "TNB",
     "SPK",
     "TRX",
@@ -339,7 +338,6 @@
         "unit": "asset"
       }
     },
-
     {
       "pair": [
         "BTC",
@@ -347,6 +345,16 @@
       ],
       "minimalOrder": {
         "amount": "0.2",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "MNA"
+      ],
+      "minimalOrder": {
+        "amount": "164.0",
         "unit": "asset"
       }
     },
@@ -434,16 +442,6 @@
     },
 
 
-    {
-      "pair": [
-        "BTC",
-        "MNA"
-      ],
-      "minimalOrder": {
-        "amount": "164.0",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
