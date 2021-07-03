@@ -19,7 +19,6 @@
     "ETC",
     "ETH",
     "ETP",
-    "EURS",
     "EXRD",
     "GNT",
     "IOT",
@@ -221,16 +220,6 @@
       ],
       "minimalOrder": {
         "amount": "8.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "EURS"
-      ],
-      "minimalOrder": {
-        "amount": "0.001",
         "unit": "asset"
       }
     },
