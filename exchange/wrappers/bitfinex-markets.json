@@ -27,7 +27,6 @@
     "KNC",
     "LRC",
     "LTC",
-    "MKR",
     "MNA",
     "NEO",
     "OMG",
@@ -303,16 +302,6 @@
       ],
       "minimalOrder": {
         "amount": "0.2",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "MKR"
-      ],
-      "minimalOrder": {
-        "amount": "0.04",
         "unit": "asset"
       }
     },
