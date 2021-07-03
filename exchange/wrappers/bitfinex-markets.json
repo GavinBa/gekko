@@ -15,7 +15,6 @@
 	"DOT",
     "DSH",
     "DUSK",
-    "EDO",
     "EOS",
     "ETC",
     "ETH",
@@ -182,16 +181,6 @@
       ],
       "minimalOrder": {
         "amount": "2.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "EDO"
-      ],
-      "minimalOrder": {
-        "amount": "16.0",
         "unit": "asset"
       }
     },
