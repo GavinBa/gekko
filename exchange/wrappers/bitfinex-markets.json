@@ -1,18 +1,19 @@
 {
   "assets": [
-   	"ADA",
-   	"ALG",
-   	"AMP",
+    "ADA",
+    "ALG",
+    "AMP",
     "ANT",
     "ATO",
+    "AVA",
     "BAT",
     "BSV",
     "BTC",
     "BTG",
     "DAI",
     "DAT",
-	"DOG",
-	"DOT",
+    "DOG",
+    "DOT",
     "DSH",
     "DUSK",
     "EOS",
@@ -34,7 +35,7 @@
     "SAN",
     "STJ",
     "TRX",
-	"UOS",
+    "UOS",
     "VET",
     "XLM",
     "XMR",
@@ -47,32 +48,32 @@
     "BTC"
   ],
   "markets": [
-	{
-	  "pair": [
-	    "BTC",
-	    "ADA"
-	  ],
-	  "minimalOrder": {
-	    "amount": "2.0",
-	    "unit": "asset"
-	  }
-	},
-	{
-	  "pair": [
-	    "BTC",
-	    "ALG"
-	  ],
-	  "minimalOrder": "2.0",
-	  "unit": "asset"
-	},
-	{
-	  "pair": [
-	    "BTC",
-	    "AMP"
-	  ],
-	  "minimalOrder": "2.0",
-	  "unit": "asset"
-	},
+    {
+      "pair": [
+        "BTC",
+        "ADA"
+      ],
+      "minimalOrder": {
+        "amount": "2.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "ALG"
+      ],
+      "minimalOrder": "2.0",
+      "unit": "asset"
+    },
+    {
+      "pair": [
+        "BTC",
+        "AMP"
+      ],
+      "minimalOrder": "2.0",
+      "unit": "asset"
+    },
     {
       "pair": [
         "BTC",
@@ -90,6 +91,16 @@
       ],
       "minimalOrder": {
         "amount": "22.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "AVA"
+      ],
+      "minimalOrder": {
+        "amount": "1.0",
         "unit": "asset"
       }
     },
