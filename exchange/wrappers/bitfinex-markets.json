@@ -36,6 +36,7 @@
     "STJ",
     "TRX",
     "UOS",
+    "USD",
     "VET",
     "XLM",
     "XMR",
@@ -45,9 +46,20 @@
     "ZRX"
   ],
   "currencies": [
-    "BTC"
+    "BTC",
+    "USD"
   ],
   "markets": [
+    {
+      "pair": [
+        "USD",
+        "BTC"
+      ],
+      "minimalOrder": {
+        "amount": "2.0",
+        "unit": "asset"
+      }
+    },
     {
       "pair": [
         "BTC",
