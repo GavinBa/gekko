@@ -34,6 +34,7 @@
     "REP",
     "SAN",
     "STJ",
+	"SOL",
     "TRX",
     "UOS",
     "USD",
@@ -386,6 +387,16 @@
         "unit": "asset"
       }
     },
+	{
+	  "pair": [
+	    "BTC",
+	    "SOL"
+	  ],
+	  "minimalOrder": {
+	    "amount": "2.0",
+	    "unit": "asset"
+	  }
+	},
     {
       "pair": [
         "BTC",
