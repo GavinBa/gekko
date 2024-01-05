@@ -121,7 +121,6 @@
     "BTC",
     "EUR",
     "ETH",
-    "GBP",
     "EOS"
   ],
   "markets": [
@@ -1197,27 +1196,7 @@
     },
     {
       "pair": [
-        "GBP",
-        "BTC"
-      ],
-      "minimalOrder": {
-        "amount": "0.002",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
         "EUR",
-        "ETH"
-      ],
-      "minimalOrder": {
-        "amount": "0.06",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "GBP",
         "ETH"
       ],
       "minimalOrder": {
@@ -1237,41 +1216,11 @@
     },
     {
       "pair": [
-        "GBP",
-        "NEO"
-      ],
-      "minimalOrder": {
-        "amount": "0.8",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
         "EUR",
         "EOS"
       ],
       "minimalOrder": {
         "amount": "2.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "GBP",
-        "EOS"
-      ],
-      "minimalOrder": {
-        "amount": "2.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "GBP",
-        "IOT"
-      ],
-      "minimalOrder": {
-        "amount": "24.0",
         "unit": "asset"
       }
     },
@@ -1768,16 +1717,6 @@
     {
       "pair": [
         "EUR",
-        "XLM"
-      ],
-      "minimalOrder": {
-        "amount": "56.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "GBP",
         "XLM"
       ],
       "minimalOrder": {
@@ -1818,16 +1757,6 @@
     {
       "pair": [
         "EUR",
-        "XVG"
-      ],
-      "minimalOrder": {
-        "amount": "1024.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "GBP",
         "XVG"
       ],
       "minimalOrder": {
@@ -2958,16 +2887,6 @@
     {
       "pair": [
         "EUR",
-        "TRX"
-      ],
-      "minimalOrder": {
-        "amount": "526.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "GBP",
         "TRX"
       ],
       "minimalOrder": {
