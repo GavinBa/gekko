@@ -120,7 +120,6 @@
     "USDt",
     "BTC",
     "EUR",
-    "JPY",
     "ETH",
     "GBP",
     "EOS"
@@ -338,16 +337,6 @@
     },
     {
       "pair": [
-        "JPY",
-        "BTC"
-      ],
-      "minimalOrder": {
-        "amount": "0.002",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
         "USD",
         "XRP"
       ],
@@ -1228,16 +1217,6 @@
     },
     {
       "pair": [
-        "JPY",
-        "ETH"
-      ],
-      "minimalOrder": {
-        "amount": "0.06",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
         "GBP",
         "ETH"
       ],
@@ -1249,16 +1228,6 @@
     {
       "pair": [
         "EUR",
-        "NEO"
-      ],
-      "minimalOrder": {
-        "amount": "0.8",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "JPY",
         "NEO"
       ],
       "minimalOrder": {
@@ -1288,31 +1257,11 @@
     },
     {
       "pair": [
-        "JPY",
-        "EOS"
-      ],
-      "minimalOrder": {
-        "amount": "2.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
         "GBP",
         "EOS"
       ],
       "minimalOrder": {
         "amount": "2.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "JPY",
-        "IOT"
-      ],
-      "minimalOrder": {
-        "amount": "24.0",
         "unit": "asset"
       }
     },
@@ -1828,16 +1777,6 @@
     },
     {
       "pair": [
-        "JPY",
-        "XLM"
-      ],
-      "minimalOrder": {
-        "amount": "56.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
         "GBP",
         "XLM"
       ],
@@ -1879,16 +1818,6 @@
     {
       "pair": [
         "EUR",
-        "XVG"
-      ],
-      "minimalOrder": {
-        "amount": "1024.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "JPY",
         "XVG"
       ],
       "minimalOrder": {
@@ -3039,16 +2968,6 @@
     {
       "pair": [
         "GBP",
-        "TRX"
-      ],
-      "minimalOrder": {
-        "amount": "526.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "JPY",
         "TRX"
       ],
       "minimalOrder": {
