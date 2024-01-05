@@ -1,4 +1,5 @@
 Bitfinix Markets not working
 BTC-AVAX
 	Fails to retrieve data using AVA,AVX or AVAX
-
+All exchanges break when removing :-
+	Poloniex.js and Markets
