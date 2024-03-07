@@ -116,13 +116,13 @@ Trader.prototype.getPortfolio = function(callback) {
     let assetAmount, currencyAmount;
 
     if(_.isObject(asset) && _.isNumber(+asset.available) && !_.isNaN(+asset.available))
-      assetAmount = +asset.available;
+      assetAmount = +asset.available * 0.99;
     else {
       assetAmount = 0;
     }
 
     if(_.isObject(currency) && _.isNumber(+currency.available) && !_.isNaN(+currency.available))
-      currencyAmount = +currency.available;
+      currencyAmount = +currency.available * 0.99;
     else {
       currencyAmount = 0;
     }
