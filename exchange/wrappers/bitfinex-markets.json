@@ -10,10 +10,8 @@
     "XRP",
     "IOT",
     "EOS",
-    "SAN",
     "OMG",
     "NEO",
-    "ETP",
     "QTM",
     "AVT",
     "EDO",
@@ -111,8 +109,8 @@
     "ADA",
     "SOL",
     "UOS",
-    "CCD",
-    "SHI"
+    "SHI",
+	"LEO"
   ],
   "currencies": [
     "USD",
@@ -385,36 +383,6 @@
     {
       "pair": [
         "USD",
-        "SAN"
-      ],
-      "minimalOrder": {
-        "amount": "24.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "SAN"
-      ],
-      "minimalOrder": {
-        "amount": "24.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "SAN"
-      ],
-      "minimalOrder": {
-        "amount": "24.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
         "OMG"
       ],
       "minimalOrder": {
@@ -454,51 +422,11 @@
     },
     {
       "pair": [
-        "BTC",
-        "NEO"
-      ],
-      "minimalOrder": {
-        "amount": "0.1",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
         "ETH",
         "NEO"
       ],
       "minimalOrder": {
         "amount": "0.8",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "USD",
-        "ETP"
-      ],
-      "minimalOrder": {
-        "amount": "8.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "ETP"
-      ],
-      "minimalOrder": {
-        "amount": "8.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "ETP"
-      ],
-      "minimalOrder": {
-        "amount": "8.0",
         "unit": "asset"
       }
     },
@@ -3045,7 +2973,7 @@
     {
       "pair": [
         "BTC",
-        "CCD"
+        "LEO"
       ],
       "minimalOrder": {
         "amount": "0.0001",
