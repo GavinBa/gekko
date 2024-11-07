@@ -2,22 +2,23 @@
   "assets": [
     "ADA",
     "BTC",
-    "LTC",
-    "ETH",
-    "ETC",
-    "ZEC",
-    "XMR",
     "DSH",
-    "XRP",
-    "IOT",
     "EOS",
+    "ETC",
+    "ETH",
+    "IOT",
+	"LEO",
+    "LTC",
     "OMG",
+    "SOL",
+    "TRX",
+    "UOS",
+	"WBT",
+    "XMR",
+	"XRD",
+    "XRP",
+    "ZEC",
     "NEO",
-    "BTG",
-    "DAT",
-    "QSH",
-    "YYW",
-    "GNT",
     "SNT",
     "BAT",
     "MNA",
@@ -25,13 +26,10 @@
     "ZRX",
     "TNB",
     "SPK",
-    "TRX",
     "RCN",
     "RLC",
     "AID",
     "SNG",
-    "REP",
-    "ELF",
     "IOS",
     "AIO",
     "REQ",
@@ -103,28 +101,12 @@
     "PNK",
     "DGB",
     "BSV",
-    "SOL",
-    "UOS",
-    "SHI",
-	"LEO",
-	"WBT",
-	"XRD"
+    "SHI"
   ],
   "currencies": [
-    "USDt",
     "BTC"
   ],
   "markets": [
-    {
-      "pair": [
-        "USDt",
-        "SHI"
-      ],
-      "minimalOrder": {
-        "amount": "0.0001",
-        "unit": "asset"
-      }
-    },
     {
       "pair": [
         "BTC",
@@ -138,10 +120,20 @@
     {
       "pair": [
         "BTC",
+        "DSH"
+      ],
+      "minimalOrder": {
+        "amount": "0.00001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
         "LTC"
       ],
       "minimalOrder": {
-        "amount": "0.2",
+        "amount": "0.00001",
         "unit": "asset"
       }
     },
@@ -151,7 +143,7 @@
         "SOL"
       ],
       "minimalOrder": {
-        "amount": "0.06",
+        "amount": "0.00001",
         "unit": "asset"
       }
     },
@@ -208,16 +200,6 @@
     {
       "pair": [
         "BTC",
-        "DSH"
-      ],
-      "minimalOrder": {
-        "amount": "0.08",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
         "XRP"
       ],
       "minimalOrder": {
@@ -252,56 +234,6 @@
       ],
       "minimalOrder": {
         "amount": "4.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "BTG"
-      ],
-      "minimalOrder": {
-        "amount": "0.6",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "DAT"
-      ],
-      "minimalOrder": {
-        "amount": "352.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "QSH"
-      ],
-      "minimalOrder": {
-        "amount": "68.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "YYW"
-      ],
-      "minimalOrder": {
-        "amount": "510.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "GNT"
-      ],
-      "minimalOrder": {
-        "amount": "82.0",
         "unit": "asset"
       }
     },
@@ -422,26 +354,6 @@
       ],
       "minimalOrder": {
         "amount": "562.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "REP"
-      ],
-      "minimalOrder": {
-        "amount": "1.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "ELF"
-      ],
-      "minimalOrder": {
-        "amount": "46.0",
         "unit": "asset"
       }
     },
