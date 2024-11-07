@@ -1,5 +1,6 @@
 {
   "assets": [
+    "ADA",
     "BTC",
     "LTC",
     "ETH",
@@ -102,7 +103,6 @@
     "PNK",
     "DGB",
     "BSV",
-    "ADA",
     "SOL",
     "UOS",
     "SHI",
@@ -112,8 +112,7 @@
   ],
   "currencies": [
     "USDt",
-    "BTC",
-    "EOS"
+    "BTC"
   ],
   "markets": [
     {
@@ -869,16 +868,6 @@
     {
       "pair": [
         "BTC",
-        "IQX"
-      ],
-      "minimalOrder": {
-        "amount": "1798.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "EOS",
         "IQX"
       ],
       "minimalOrder": {
