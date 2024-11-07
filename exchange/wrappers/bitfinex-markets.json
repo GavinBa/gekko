@@ -12,8 +12,6 @@
     "EOS",
     "OMG",
     "NEO",
-    "AVT",
-    "EDO",
     "BTG",
     "DAT",
     "QSH",
@@ -296,46 +294,6 @@
       ],
       "minimalOrder": {
         "amount": "0.8",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "AVT"
-      ],
-      "minimalOrder": {
-        "amount": "36.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "AVT"
-      ],
-      "minimalOrder": {
-        "amount": "36.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "EDO"
-      ],
-      "minimalOrder": {
-        "amount": "16.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "ETH",
-        "EDO"
-      ],
-      "minimalOrder": {
-        "amount": "16.0",
         "unit": "asset"
       }
     },
