@@ -105,12 +105,13 @@
     "PNK",
     "DGB",
     "BSV",
-    "BAB",
     "ADA",
     "SOL",
     "UOS",
     "SHI",
-	"LEO"
+	"LEO",
+	"WBT",
+	"XRD"
   ],
   "currencies": [
     "USD",
@@ -2952,28 +2953,28 @@
     },
     {
       "pair": [
-        "USD",
-        "BAB"
-      ],
-      "minimalOrder": {
-        "amount": "0.04",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "BAB"
-      ],
-      "minimalOrder": {
-        "amount": "0.04",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
         "BTC",
         "LEO"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "WBT"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "XRD"
       ],
       "minimalOrder": {
         "amount": "0.0001",
