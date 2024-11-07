@@ -19,13 +19,6 @@
     "XRP",
     "ZEC",
     "NEO",
-    "SNT",
-    "BAT",
-    "MNA",
-    "FUN",
-    "ZRX",
-    "TNB",
-    "SPK",
     "RCN",
     "RLC",
     "AID",
@@ -130,6 +123,26 @@
     {
       "pair": [
         "BTC",
+        "ETC"
+      ],
+      "minimalOrder": {
+        "amount": "2.0",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "ETH"
+      ],
+      "minimalOrder": {
+        "amount": "0.06",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
         "LTC"
       ],
       "minimalOrder": {
@@ -154,26 +167,6 @@
       ],
       "minimalOrder": {
         "amount": "0.06",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "ETH"
-      ],
-      "minimalOrder": {
-        "amount": "0.06",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "ETC"
-      ],
-      "minimalOrder": {
-        "amount": "2.0",
         "unit": "asset"
       }
     },
@@ -233,77 +226,7 @@
         "OMG"
       ],
       "minimalOrder": {
-        "amount": "4.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "SNT"
-      ],
-      "minimalOrder": {
-        "amount": "334.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "BAT"
-      ],
-      "minimalOrder": {
-        "amount": "70.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "MNA"
-      ],
-      "minimalOrder": {
-        "amount": "164.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "FUN"
-      ],
-      "minimalOrder": {
-        "amount": "1196.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "ZRX"
-      ],
-      "minimalOrder": {
-        "amount": "20.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "TNB"
-      ],
-      "minimalOrder": {
-        "amount": "1418.0",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "BTC",
-        "SPK"
-      ],
-      "minimalOrder": {
-        "amount": "320.0",
+        "amount": "0.0001",
         "unit": "asset"
       }
     },
