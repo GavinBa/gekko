@@ -6,6 +6,7 @@
     "EOS",
     "ETC",
     "ETH",
+	"EUT",
     "IOT",
 	"LEO",
     "LTC",
@@ -13,6 +14,7 @@
     "SOL",
     "TRX",
     "UOS",
+	"UST",
 	"WBT",
     "XMR",
 	"XRD",
@@ -21,7 +23,8 @@
     "ZEC"
   ],
   "currencies": [
-    "BTC"
+    "BTC",
+	"UST"
   ],
   "markets": [
     {
@@ -120,7 +123,7 @@
         "SOL"
       ],
       "minimalOrder": {
-        "amount": "0.00001",
+        "amount": "0.02",
         "unit": "asset"
       }
     },
@@ -201,6 +204,16 @@
       ],
       "minimalOrder": {
         "amount": "0.00001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "EUT"
+      ],
+      "minimalOrder": {
+        "amount": "1",
         "unit": "asset"
       }
     }
