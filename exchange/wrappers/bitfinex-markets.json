@@ -16,6 +16,7 @@
     "UOS",
 	"UST",
 	"WBT",
+	"XLM",
     "XMR",
 	"XRD",
     "XRP",
@@ -151,6 +152,16 @@
       "pair": [
         "BTC",
         "WBT"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
+        "XLM"
       ],
       "minimalOrder": {
         "amount": "0.0001",
