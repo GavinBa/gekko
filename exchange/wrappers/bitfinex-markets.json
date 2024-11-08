@@ -210,10 +210,30 @@
     {
       "pair": [
         "UST",
+        "ADA"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "BTC"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
         "EUT"
       ],
       "minimalOrder": {
-        "amount": "1",
+        "amount": "0.0001",
         "unit": "asset"
       }
     }
