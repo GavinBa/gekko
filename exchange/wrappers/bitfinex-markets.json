@@ -2,6 +2,7 @@
   "assets": [
     "ADA",
     "BTC",
+	"DOT",
     "DSH",
     "EOS",
     "ETC",
@@ -11,6 +12,7 @@
 	"LEO",
     "LTC",
     "OMG",
+	"MEW",
     "SOL",
     "TRX",
     "UOS",
@@ -241,7 +243,27 @@
     {
       "pair": [
         "UST",
+        "DOT"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
         "EUT"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "MEW"
       ],
       "minimalOrder": {
         "amount": "0.0001",
