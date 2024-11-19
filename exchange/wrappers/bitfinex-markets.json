@@ -13,8 +13,10 @@
     "LTC",
     "OMG",
     "MEW",
+	"MPC",
     "SOL",
     "TRX",
+	"UNI",
     "UOS",
     "UST",
     "WBT",
@@ -23,6 +25,7 @@
     "XMR",
     "XRD",
     "XRP",
+	"XTP",
     "XTZ",
     "ZEC"
   ],
@@ -284,7 +287,47 @@
     {
       "pair": [
         "UST",
+        "MPC"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "UNI"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
         "XLM"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "XMR"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "XTP"
       ],
       "minimalOrder": {
         "amount": "0.0001",
