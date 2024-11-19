@@ -2,25 +2,26 @@
   "assets": [
     "ADA",
     "BTC",
-	"DOT",
+    "DOT",
     "DSH",
     "EOS",
     "ETC",
     "ETH",
-	"EUT",
+    "EUT",
     "IOT",
-	"LEO",
+    "LEO",
     "LTC",
     "OMG",
-	"MEW",
+    "MEW",
     "SOL",
     "TRX",
     "UOS",
-	"UST",
-	"WBT",
-	"XLM",
+    "UST",
+    "WBT",
+    "XAUT",
+    "XLM",
     "XMR",
-	"XRD",
+    "XRD",
     "XRP",
     "XTZ",
     "ZEC"
@@ -163,6 +164,16 @@
     {
       "pair": [
         "BTC",
+        "XAUT"
+      ],
+      "minimalOrder": {
+        "amount": "0.002",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "BTC",
         "XLM"
       ],
       "minimalOrder": {
@@ -264,6 +275,16 @@
       "pair": [
         "UST",
         "MEW"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "XLM"
       ],
       "minimalOrder": {
         "amount": "0.0001",
