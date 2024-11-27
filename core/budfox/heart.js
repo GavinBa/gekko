@@ -11,7 +11,7 @@ if (util.getConfig().watch.tickrate)
 else if(util.getConfig().watch.exchange === 'okcoin')
   var TICKRATE = 2;
 else
-  var TICKRATE = 20;
+  var TICKRATE = 120;
 
 var Heart = function() {
   this.lastTick = false;
