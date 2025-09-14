@@ -4,6 +4,7 @@
     "BTC",
     "DOT",
     "DSH",
+	"ENA",
     "EOS",
     "ETC",
     "ETH",
@@ -258,6 +259,16 @@
       "pair": [
         "UST",
         "DOT"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "ENA"
       ],
       "minimalOrder": {
         "amount": "0.0001",
