@@ -2,6 +2,7 @@
   "assets": [
     "ADA",
 	"AMP",
+	"APE",
     "BTC",
     "DOT",
     "DSH",
@@ -239,6 +240,16 @@
       "pair": [
         "UST",
         "AMP"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+	{
+      "pair": [
+        "UST",
+        "APE"
       ],
       "minimalOrder": {
         "amount": "0.0001",
