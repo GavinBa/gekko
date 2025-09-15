@@ -3,6 +3,10 @@
     "ADA",
 	"AMP",
 	"APE",
+	"APT",
+	"ARB",
+	"ATH",
+	"ATO",
     "BTC",
     "DOT",
     "DSH",
@@ -250,6 +254,46 @@
       "pair": [
         "UST",
         "APE"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+	{
+      "pair": [
+        "UST",
+        "APT"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+	{
+      "pair": [
+        "UST",
+        "ARB"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+	{
+      "pair": [
+        "UST",
+        "ATH"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+	{
+      "pair": [
+        "UST",
+        "ATO"
       ],
       "minimalOrder": {
         "amount": "0.0001",
