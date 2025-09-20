@@ -7,7 +7,11 @@
 	"ARB",
 	"ATH",
 	"ATO",
+	"B2M",
+	"BGB",
     "BTC",
+	"CHZ",
+	"CRV",
     "DOT",
     "DSH",
 	"ENA",
@@ -303,7 +307,47 @@
     {
       "pair": [
         "UST",
+        "B2M"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "BGB"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
         "BTC"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "CHZ"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "CRV"
       ],
       "minimalOrder": {
         "amount": "0.0001",
