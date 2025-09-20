@@ -1,6 +1,6 @@
 {
   "assets": [
-    "ADA",
+	"ADA",
 	"AMP",
 	"APE",
 	"APT",
@@ -9,18 +9,23 @@
 	"ATO",
 	"B2M",
 	"BGB",
-    "BTC",
+	"BTC",
 	"CHZ",
 	"CRV",
-    "DOT",
+	"DOT",
 	"DYM",
-    "DSH",
+	"DSH",
 	"ENA",
-    "EOS",
-    "ETC",
-    "ETH",
+	"EOS",
+	"ETC",
+	"ETH",
 	"EUR",
-    "EUT",
+	"EUT",
+	"FET",
+	"FIL",
+	"GBP",
+	"GTX",
+	"GUN",
     "IOT",
     "LEO",
     "LTC",
@@ -420,6 +425,56 @@
       "pair": [
         "UST",
         "EUT"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "FET"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "FIL"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "GBP"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "GTX"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "GUN"
       ],
       "minimalOrder": {
         "amount": "0.0001",
