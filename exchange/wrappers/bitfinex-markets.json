@@ -13,11 +13,13 @@
 	"CHZ",
 	"CRV",
     "DOT",
+	"DYM",
     "DSH",
 	"ENA",
     "EOS",
     "ETC",
     "ETH",
+	"EUR",
     "EUT",
     "IOT",
     "LEO",
@@ -367,7 +369,47 @@
     {
       "pair": [
         "UST",
+        "DYM"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
         "ENA"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "ETC"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "ETH"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "EUR"
       ],
       "minimalOrder": {
         "amount": "0.0001",
