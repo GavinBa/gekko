@@ -74,7 +74,7 @@
     {
       "pair": [
         "BTC",
-        "EOS"
+        "ETC"
       ],
       "minimalOrder": {
         "amount": "0.00001",
