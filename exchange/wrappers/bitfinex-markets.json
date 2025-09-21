@@ -42,20 +42,28 @@
 	"MNT",
 	"NEO",
 	"NYM",
-    "SOL",
-    "TRX",
+	"OPX",
+	"POL",
+	"SEI",
+	"SHM",
+	"SOL",
+	"STG",
+	"STX",
+	"SUI",
+	"SUN",
+	"TRX",
 	"UNI",
-    "UOS",
-    "UST",
-    "WBT",
-    "XAUT",
-    "XLM",
-    "XMR",
-    "XRD",
-    "XRP",
+	"UOS",
+	"UST",
+	"WBT",
+	"XAUT",
+	"XLM",
+	"XMR",
+	"XRD",
+	"XRP",
 	"XTP",
-    "XTZ",
-    "ZEC"
+	"XTZ",
+	"ZEC"
   ],
   "currencies": [
     "BTC",
@@ -626,6 +634,96 @@
       "pair": [
         "UST",
         "NYM"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "OPX"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "POL"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "SEI"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "SHM"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "SOL"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "STG"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "STX"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "SUI"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "SUN"
       ],
       "minimalOrder": {
         "amount": "0.0001",
