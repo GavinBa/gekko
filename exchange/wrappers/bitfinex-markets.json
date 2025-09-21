@@ -36,7 +36,6 @@
     "LEO",
     "LTC",
     "MEW",
-	"MPC",
     "SOL",
     "TRX",
 	"UNI",
@@ -541,16 +540,6 @@
       "pair": [
         "UST",
         "MEW"
-      ],
-      "minimalOrder": {
-        "amount": "0.0001",
-        "unit": "asset"
-      }
-    },
-    {
-      "pair": [
-        "UST",
-        "MPC"
       ],
       "minimalOrder": {
         "amount": "0.0001",
