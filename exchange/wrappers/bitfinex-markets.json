@@ -32,10 +32,16 @@
 	"JXX",
 	"JPY",
 	"JST",
+	"JUP",
 	"KAN",
+	"LDO",
     "LEO",
     "LTC",
     "MEW",
+	"MIM",
+	"MNT",
+	"NEO",
+	"NYM",
     "SOL",
     "TRX",
 	"UNI",
@@ -529,6 +535,16 @@
     {
       "pair": [
         "UST",
+        "JUP"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
         "KAN"
       ],
       "minimalOrder": {
@@ -539,7 +555,77 @@
     {
       "pair": [
         "UST",
+        "LDO"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "LEO"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "LTC"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
         "MEW"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "MIM"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "MNT"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "NEO"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "NYM"
       ],
       "minimalOrder": {
         "amount": "0.0001",
