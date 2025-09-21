@@ -26,7 +26,13 @@
 	"GBP",
 	"GTX",
 	"GUN",
+	"HIX",
+	"ICP",
     "IOT",
+	"JXX",
+	"JPY",
+	"JST",
+	"KAN",
     "LEO",
     "LTC",
     "MEW",
@@ -465,6 +471,66 @@
       "pair": [
         "UST",
         "GUN"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "HIX"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "ICP"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "JXX"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "JPY"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "JST"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "KAN"
       ],
       "minimalOrder": {
         "amount": "0.0001",
