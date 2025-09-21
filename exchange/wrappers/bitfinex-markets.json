@@ -46,12 +46,17 @@
 	"POL",
 	"SEI",
 	"SHM",
+	"SKY",
 	"SOL",
 	"STG",
 	"STX",
 	"SUI",
 	"SUN",
+	"TIA",
+	"TON",
 	"TRX",
+	"TRY",
+	"TSD",
 	"UNI",
 	"UOS",
 	"UST",
@@ -683,6 +688,16 @@
     {
       "pair": [
         "UST",
+        "SKY"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
         "SOL"
       ],
       "minimalOrder": {
@@ -724,6 +739,56 @@
       "pair": [
         "UST",
         "SUN"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "TIA"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "TON"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "TRX"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "TRY"
+      ],
+      "minimalOrder": {
+        "amount": "0.0001",
+        "unit": "asset"
+      }
+    },
+    {
+      "pair": [
+        "UST",
+        "TSD"
       ],
       "minimalOrder": {
         "amount": "0.0001",
