@@ -1,3 +1,10 @@
+ *** Please note:- ***
+ This is a modified version of askmike's gekko, and has some minor tweeks to suite my situation.
+ 
+ Notes:-
+ The sync request interval in the watcher has been modified to 10 minutes. This help prevent API overloading when running multiple bots.
+ Most exchanges have been removed, and only bitfinex BTC and UST currencies are currently maintained.
+
 # Gekko [![npm](https://img.shields.io/npm/dm/gekko.svg)]() [![Build Status](https://travis-ci.org/askmike/gekko.png)](https://travis-ci.org/askmike/gekko) [![Build status](https://ci.appveyor.com/api/projects/status/github/askmike/gekko?branch=stable&svg=true)](https://ci.appveyor.com/project/askmike/gekko)
 
 ![Gordon Gekko](http://mikevanrossum.nl/static/gekko.jpg)
